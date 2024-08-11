@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1712970015 source:a:\crtradol\proyects\practicas\solo c\dona\dona.cpp
+	<stdio.h>
+	"conio2.h"
+	<unistd.h>
+	<string.h>
+	<math.h>
+
+1712969573 a:\crtradol\proyects\practicas\solo c\dona\conio2.h
+	<conio.h>
+	<windows.h>
+
+1712969573 source:a:\crtradol\proyects\practicas\solo c\dona\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
